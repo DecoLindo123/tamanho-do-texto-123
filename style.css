@@ -1,0 +1,27 @@
+.cabecalho
+{
+    font-size: 23px;
+    width: 100%;
+    margin-top: 0px;
+    box-shadow: 5px 5px 5px gray;
+}
+span
+{
+    font-size: 15px;
+    color: black;
+}
+.rodape
+{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: burlywood;
+    text-align: center;
+    color: azure;
+}
+canvas
+{
+    border: 10px solid burlywood;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px gray;
+}
